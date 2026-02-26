@@ -51,11 +51,11 @@ pip install numpy matplotlib sounddevice
 ## Screenshots
 
 ### Home Page
-![Home Page](image1.png)
+![Home Page](2.png)
 
 ### Instruments
-![Guitar Instrument](base.png)
-![Piano Instrument](insturment2.png)
+![Guitar Instrument](4.png)
+![Piano Instrument](3.png)
 
 ### About Developer
-![About Developer](about.png)
+![About Developer](1.png)
