@@ -48,11 +48,14 @@ Make sure you have Python 3 installed. Then install the required packages:
 
 pip install numpy matplotlib sounddevice
 
-
 ## Screenshots
 
-### Simulation GUI
-![Simulation GUI](screenshots/gui.png)
+### Home Page
+![Home Page](image1.png)
 
-### Oscilloscope View
-![Oscilloscope](Screenshot2026-02-26230703.png)
+### Instruments
+![Guitar Instrument](base.png)
+![Piano Instrument](insturment2.png)
+
+### About Developer
+![About Developer](about.png)
