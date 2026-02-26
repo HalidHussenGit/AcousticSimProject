@@ -47,3 +47,12 @@ Make sure you have Python 3 installed. Then install the required packages:
 
 ```bash
 pip install numpy matplotlib sounddevice
+
+
+## Screenshots
+
+### Simulation GUI
+![Simulation GUI](screenshots/gui.png)
+
+### Oscilloscope View
+![Oscilloscope](D:\_Turkey Burslari\AcousticSimProject\screenshots\Screenshot 2026-02-26 230703.png)
