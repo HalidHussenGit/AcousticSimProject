@@ -55,4 +55,4 @@ pip install numpy matplotlib sounddevice
 ![Simulation GUI](screenshots/gui.png)
 
 ### Oscilloscope View
-![Oscilloscope](screenshots/2026-02-26230703.png)
+![Oscilloscope](2026-02-26230703.png)
